@@ -40,12 +40,14 @@ It could be faster by removing visualization, logging, averaging loss etc.
 
 - install other dependencies:  `pip install visdom scikit-image tqdm fire ipdb pprint matplotlib torchnet`
 
-- start visdom for visualization, visit http://localhost:8097 in your browser
-
-conmand in cmd:
+- command in cmd:
 ```Bash
 python -m visdom.server
 ```
+
+- start visdom for visualization, visit http://localhost:8097 in your browser and see the visualization of training procedure as below:
+
+![img](demo/Visdom.jpg)
 
 
 
