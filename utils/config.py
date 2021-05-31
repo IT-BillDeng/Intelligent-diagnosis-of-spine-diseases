@@ -12,8 +12,6 @@ class Config:
     visualize_score_thresh = 0.7
 
     # data
-    # SDL_data_dir = '/dataset/SDL/'
-    # SDL_data_dir = r'E:\10277\OneDrive\Python\Homework\20210527\Intelligent diagnosis of spine diseases\dataset\SDL'
     SDL_data_dir = 'dataset/SDL'
     min_size = 600  # image resize
     max_size = 600  # image resize
@@ -37,7 +35,7 @@ class Config:
     plot_every = 10  # vis every N iter
 
     # preset
-    data = 'voc'
+    data = 'SDL'
     pretrained_model = 'vgg16'
 
     # training
