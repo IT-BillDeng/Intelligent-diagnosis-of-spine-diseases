@@ -1,4 +1,4 @@
-# Intelligent-diagnosis-of-spine-diseases
+# Intelligent diagnosis of spine diseases
 
 ## Introduction
 
