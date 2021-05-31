@@ -7,3 +7,6 @@ The mid-term homework of the scoure Artificial Intelligence Comprehensive Experi
 Tercher: Liu Mengyuan
 
 Group Member: Deng Yushan, Duan Yuxiao, Ding Yuhao, Deng Zhuotao, Yu Zhanpeng
+
+
+2021/05/31
