@@ -6,7 +6,7 @@ A project of Intelligent diagnosis of spine diseases with simple Faster-RCNN
 
 The mid-term homework of the scoure Artificial Intelligence Comprehensive Experiment in ISE, SYSU.
 
-![img](demo\study0.jpg)
+![img](demo/study0.jpg)
 
 **Tercher:** Liu Mengyuan
 
