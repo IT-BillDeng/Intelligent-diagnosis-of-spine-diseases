@@ -53,8 +53,7 @@ python -m visdom.server
 
 ## Demo
 
-Download pretrained model from [BaiduDisk](https://pan.baidu.com/s/1e8XqqUCXdvdkgo6089QJAQ) password：gpci 
-
+Download pretrained model from [Google Drive](https://drive.google.com/file/d/18Q8NfYfuuYRosvv2wn-wK3oIica36dIH/view?usp=sharing) or [BaiduDisk](https://pan.baidu.com/s/1e8XqqUCXdvdkgo6089QJAQ) with password：gpci
 
 See [Demo_pro.ipynb](https://github.com/IT-BillDeng/Intelligent-diagnosis-of-spine-diseases/blob/main/Demo_pro.ipynb) for more detail.
 
